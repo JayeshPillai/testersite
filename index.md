@@ -1,9 +1,9 @@
 ---
 layout: index
-title: Helium Jekyll
-tagline: Bootstrap 4 UI kit for Jekyll
+title: IMXD Lab
+tagline: Test Website
 css: 
 js: sliders.js
-keywords: helium, jekyll, bootstrap, UI, kit
+keywords: 
 canonical: https://vratidc.github.io
 ---

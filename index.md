@@ -1,9 +1,9 @@
 ---
 layout: index
-title: IMXD Lab
-tagline: Test Website
+title: Jayesh Pillai
+tagline: Personal Website
 css: 
 js: sliders.js
-keywords: 
+keywords: Jayesh, Pillai, Website, Designer, Artist, Academician
 canonical: https://jayeshpillai.github.io
 ---

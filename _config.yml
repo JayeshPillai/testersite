@@ -7,7 +7,7 @@ highlighter: null
 markdown: kramdown
 extensions: [fenced_code_blocks]
 excerpt_separator: "<!--more-->"
-url: https://vratidc.github.io/imxd-test
+url: https://jayeshpillai.github.io/testersite/
 baseurl: ""
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
@@ -24,12 +24,12 @@ post_limit: 5
 title : IMXD Lab
 tagline: Bootstrap 4 UI kit for jekyll
 author : 
-  name : IMXD Lab
-  site: https://vratidc.github.io/imxd-test
-  description : IMXD Test Website
+  name : Jayesh Pillai
+  site: https://www.jayeshpillai.com/
+  description : Jayesh Pillai - Personal Website
   image : logo.png
-  email : vratidc@gmail.com
-  github : vratidc
+  email : jayesh.spillai@gmail.com
+  github : JayeshPillai
   twitter : 
   facebook: 
   linkedin: 
@@ -46,7 +46,7 @@ twitter_username:
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : https://vratidc.github.io/imxd-test
+production_url : https://jayeshpillai.github.io/testersite/
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
@@ -75,7 +75,7 @@ JB :
   #   - Only the following values are falsy: ["", null, false]
   #   - When setting BASE_PATH it must be a valid url.
   #     This means always setting the protocol (http|https) or prefixing with "/"
-  BASE_PATH : https://vratidc.github.io/imxd-test
+  BASE_PATH : https://jayeshpillai.github.io/testersite/
 
   # By default, the asset_path is automatically defined relative to BASE_PATH plus the enabled theme.
   # ex: [BASE_PATH]/assets/themes/[THEME-NAME]
@@ -85,7 +85,7 @@ JB :
   #   http://s3.amazonaws.com/yoursite/themes/watermelon
   #   /assets
   #
-  ASSET_PATH : https://vratidc.github.io/imxd-test/assets/themes/bootstrap
+  ASSET_PATH : https://jayeshpillai.github.io/testersite/assets/themes/bootstrap
 
   # These paths are to the main pages Jekyll-Bootstrap ships with.
   # Some JB helpers refer to these paths; change them here if needed.

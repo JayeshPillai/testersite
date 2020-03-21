@@ -5,5 +5,4 @@ tagline: Test Website
 css: 
 js: sliders.js
 keywords: 
-canonical: https://jayeshpillai.github.io
 ---

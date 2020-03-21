@@ -5,5 +5,5 @@ tagline: Test Website
 css: 
 js: sliders.js
 keywords: 
-canonical: https://vratidc.github.io
+canonical: https://jayeshpillai.github.io
 ---

@@ -1,7 +1,11 @@
-# Helium Jekyll
-## A new Bootstrap 4 theme
+# Jayesh Pillai
+## Personal Website
 
-## The project is no longer mantained
+Powered by Helium Jekyll
+by Antonio Trento
+https://lantoniotrento.github.io/
+https://antoniotrento.github.io
+https://linkedin.com/in/antoniotrento
 
 <a href="https://jekyll-themes.com">
     <img src="https://img.shields.io/badge/featured%20on-JT-red.svg" height="20" alt="Jekyll Themes Shield" >

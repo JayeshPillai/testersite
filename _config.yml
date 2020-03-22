@@ -22,11 +22,11 @@ post_limit: 5
 
 
 title : Jayesh Pillai
-tagline: Jayesh Pillai - Personal Website
+tagline: "Jayesh Pillai - Personal Website"
 author : Jayesh Pillai
   name : Jayesh Pillai
   site: https://www.jayeshpillai.com/
-  description : Jayesh Pillai - Personal Website
+  description : "Jayesh Pillai - Personal Website"
   image : logo.png
   email : jayesh.spillai@gmail.com
   github : JayeshPillai

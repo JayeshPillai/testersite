@@ -1,10 +1,11 @@
 
-## Personal Website
-### Jayesh Pillai
-Work in Progress ............
+### Personal Website
+#### Jayesh Pillai
+Work in Progress ...
 
-## Credits
-### Theme
+
+### Credits
+#### Theme
 Powered by Helium Jekyll
 
 by Antonio Trento
@@ -12,7 +13,7 @@ by Antonio Trento
 - [https://antoniotrento.github.io](https://antoniotrento.github.io)
 - [https://linkedin.com/in/antoniotrento](https://linkedin.com/in/antoniotrento)
 
-### Resources used
+#### Resources used
 - [Helium B4](https://uideck.com/products/helium-ui-kit/)
 - [Font Awesome](http://fontawesome.io/)
 - [Bootstrap 4](https://v4-alpha.getbootstrap.com/)

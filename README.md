@@ -7,7 +7,7 @@ Work in Progress ...
 #### Credits
 Theme Powered by [Helium Jekyll](https://heliumjk.github.io/)
 
-by Antonio Trento
+Theme created by <strong>Antonio Trento</strong>
 - [https://lantoniotrento.github.io/](https://lantoniotrento.github.io/)
 - [https://antoniotrento.github.io](https://antoniotrento.github.io)
 - [https://linkedin.com/in/antoniotrento](https://linkedin.com/in/antoniotrento)

@@ -27,7 +27,7 @@ canonical: https://jayeshpillai.github.io
                   <div class="carousel-item active">
                     <img src="{{ BASE_PATH }}/assets/images/slider/bg-1.jpg" alt="">
                     <div class="carousel-caption">
-                      <h3 class="slide-title animated fadeInDown"><span class="text-primary">Test</span>Header1</h3>
+                      <h3 class="slide-title animated fadeInDown"><span class="text-primary">Test </span>Header1</h3>
                       <h5 class="slide-text animated fadeIn">Text</h5>
                       <a href="#features" class="btn btn-lg btn-default-filled animated fadeInUp">Click me</a>
                       <a href="https://github.com/heliumjk/heliumjk.github.io/" class="btn btn-lg btn-common animated fadeInUp">Learn More</a>
@@ -36,7 +36,7 @@ canonical: https://jayeshpillai.github.io
                   <div class="carousel-item">
                     <img src="{{ BASE_PATH }}/assets/images/slider/bg-2.jpg" alt="">
                     <div class="carousel-caption">
-                      <h3 class="slide-title animated fadeInDown"><span class="text-primary">Test</span>Header1</h3>
+                      <h3 class="slide-title animated fadeInDown"><span class="text-primary">Test </span>Header2</h3>
                       <h5 class="slide-text animated fadeIn">Text</h5>
                       <a href="#features" class="btn btn-lg btn-default-filled animated fadeInUp">Click me</a>
                       <a href="https://github.com/heliumjk/heliumjk.github.io/" class="btn btn-lg btn-default-filled animated fadeInUp">Click me too</a>
@@ -45,7 +45,7 @@ canonical: https://jayeshpillai.github.io
                   <div class="carousel-item">
                     <img src="{{ BASE_PATH }}/assets/images/slider/bg-3.jpg" alt="">
                     <div class="carousel-caption">
-                      <h3 class="slide-title animated fadeInDown"><span class="text-primary">Test</span>Header1</h3>
+                      <h3 class="slide-title animated fadeInDown"><span class="text-primary">Test </span>Header3</h3>
                       <h5 class="slide-text animated fadeIn">Text</h5>
                       <a href="#features" class="btn btn-lg btn-default-filled animated fadeInUp">Click me</a>
                       <a href="https://github.com/heliumjk/heliumjk.github.io/" class="btn btn-lg btn-common animated fadeInUp">Click me too</a>

@@ -12,7 +12,7 @@ canonical: https://jayeshpillai.github.io
 <!-- Content Area Start -->
 <div id="content">
 <!-- HEADER -->
-      <div class="header-style-3">
+      <div class="header-style-2">
         <div class="container">
           <div class="row">
             <div class="col-xs-12 col-sm-6">
@@ -23,7 +23,7 @@ canonical: https://jayeshpillai.github.io
             <div class="col-xs-12 col-sm-6">
               <div class="hero-content-v2">
                 <h3>100+ UI Components <strong>Ready for any web projects</strong></h3>
-                <a href="{{ BASE_PATH }}/components" class="btn btn-lg btn-default-filled animated fadeInUp">Explore All</a>
+                <a href="{{ BASE_PATH }}/WORK" class="btn btn-lg btn-default-filled animated fadeInUp">WORK</a>
               </div>
             </div>
           </div>

@@ -13,6 +13,7 @@ canonical: https://jayeshpillai.github.io
 <div id="content">
 <!-- HEADER -->
       <div class="header-style-1">
+       <div class="full-width">
         <div class="container">
           <div class="row">
             <div class="col-xs-12 col-sm-6">
@@ -29,6 +30,7 @@ canonical: https://jayeshpillai.github.io
           </div>
         </div>
       </div>	
+     </div>
 <!-- END HEADER -->
 <!-- Content area end -->
 </div>

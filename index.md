@@ -10,7 +10,8 @@ canonical: https://jayeshpillai.github.io
 
 {% include JB/setup %}
 <!-- Content Area Start -->
-	<!-- HEADER -->
+<div id="content">
+<!-- HEADER -->
       <div class="header-style-3">
         <div class="container">
           <div class="row">
@@ -28,4 +29,6 @@ canonical: https://jayeshpillai.github.io
           </div>
         </div>
       </div>	
-	<!-- END HEADER -->
+<!-- END HEADER -->
+<!-- Content area end -->
+</div>

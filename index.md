@@ -9,6 +9,7 @@ canonical: https://jayeshpillai.github.io
 ---
 
 {% include JB/setup %}
+
 <!-- Content Area Start -->
 <div id="content">
       <!-- sliders -->
@@ -66,5 +67,6 @@ canonical: https://jayeshpillai.github.io
         </div>
       </div>
       <!-- End sliders -->
+
 <!-- Content area end -->
 </div>

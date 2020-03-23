@@ -17,7 +17,7 @@ canonical: https://jayeshpillai.github.io
           <div class="row">
             <div class="col-xs-12 col-sm-6">
               <figure>
-                <img src="{{ BASE_PATH }}/assets/images/bg/bg-2.jpg" alt="">
+                <img src="{{ BASE_PATH }}/assets/images/slider/bg-2.jpg" alt="">
               </figure>
             </div>
             <div class="col-xs-12 col-sm-6">

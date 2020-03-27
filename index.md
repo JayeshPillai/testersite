@@ -1,7 +1,7 @@
 ---
 layout: index
 title: Jayesh Pillai
-tagline: Personal Website
+tagline: Designer • Artist
 css: 
 js: sliders.js
 keywords: Jayesh, Pillai, Website, Designer, Artist, Academician

@@ -1,16 +1,19 @@
 ---
 layout: blog
-title: Blog
-group: 
+title: "Blog • Jayesh Pillai"
+tagline: "Blog • Jayesh Pillai"
+group: navigation
+nav-name: BLOG
 tags : [blog, posts, post]
-author : Antonio Trento
-css: 
-js:
-keywords: bootstrap4, UI kit, jekyll
-canonical: https://heliumjk.github.io/blog
+img : 
+img-mobile : 
+author : Jayesh Pillai
+keywords: jayesh, pillai, blog
+canonical: https://jayeshpillai.github.io
 ---
 {% include JB/setup %}
 
+<!-- Blog Page Area Start -->
 
 {% for post in site.posts %}
 	  <div class="blog-block post-content-area">
@@ -25,4 +28,6 @@ canonical: https://heliumjk.github.io/blog
           </div>
 	  <div class="mb-60"></div>
 {% endfor %}
+
+<!-- Blog Page area end -->
 

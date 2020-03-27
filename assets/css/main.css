@@ -229,6 +229,7 @@ strong {
 
 .wrapper {
 	background: #fff;
+	padding-top: 120px;
 	padding-bottom: 0px
 }
 
@@ -1153,12 +1154,6 @@ footer .menu li a:hover {
   	width: 100%;
   	z-index: 9999;
 }
-
-.wrapper  {
-	padding-top: 120px;
-	padding-bottom: 60px
-}
-
 
 .dropdown-menu {
 	padding: 10px 0px;
